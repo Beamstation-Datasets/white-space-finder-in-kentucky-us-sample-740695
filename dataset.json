@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Kentucky that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Kentucky, US",
-  "export_job_id": "b07835c6-2fba-4b83-a067-b8a153e33ee4",
+  "export_job_id": "a2080385-ee02-4f7c-a922-5ba0b806c78e",
   "github_org": "Beamstation-Datasets",
   "id_short": 740695,
   "location_name": "Kentucky",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/740695/beamstation_740695_food_and_drink-us-ky_SAMPLE_DIST.csv",
   "sample_pct": 5.56,
   "sample_records": 1,
-  "sample_sha256": "2dc567ba871406a58ba24ed410b7a836f20fbe8504d923b5b51badb55faf290b",
-  "sample_size_bytes": 19756,
+  "sample_sha256": "edbeb876f6ce77324d7ba5dbe0a8354a6b62ec88b5cc05d718e26bb3cd27c273",
+  "sample_size_bytes": 19830,
   "total_records": 18,
-  "updated_at": "2026-04-07T17:48:07.202588+00:00"
+  "updated_at": "2026-04-14T23:19:36.976229+00:00"
 }
