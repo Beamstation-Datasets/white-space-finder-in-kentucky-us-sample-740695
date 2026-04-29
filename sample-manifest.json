@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fce3fa8f-f78d-4474-b373-b211db7dd788",
+  "export_job_id": "dd0158af-705a-495b-924d-e41d911deeef",
   "id_short": 740695,
-  "published_at": "2026-04-22T07:57:09Z",
+  "published_at": "2026-04-29T07:59:15Z",
   "repo_name": "white-space-finder-in-kentucky-us-sample-740695",
   "sample_asset_name": "beamstation_740695_food_and_drink-us-ky_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/740695/beamstation_740695_food_and_drink-us-ky_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "8e2ffec8ec81900824beed2fc1bd00fa2e3bfac572e3d1ad270f58f73514b812",
-  "sample_size_bytes": 19830,
+  "sample_sha256": "ff30b4fafa864ed82722e3e2633aadabc697cd11838931953489dd9824837399",
+  "sample_size_bytes": 19975,
   "total_records": 18
 }
